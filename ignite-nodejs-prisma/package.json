@@ -1,0 +1,23 @@
+{
+  "name": "ignite-nodejs-prisma",
+  "version": "1.0.0",
+  "description": "Prisma course inside NodeJS Ignite module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndresdoSantos"
+  },
+  "author": "Andres dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^4.8.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.8.0"
+  }
+}
